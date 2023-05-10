@@ -1,16 +1,90 @@
-body {
-    #383D58
+{
+    margin: 0;
+    padding: 0;
     }
-    body {
-        background-color: #383D58;
-        }
-        <title>Document</title>
-<link rel=”stylesheet” href=”style.css”>
-body {
-    background-color: #383D58;
-    color: white;
+    .cabecalho{
+    background-color:rgb(121, 2, 95);
+    color: azure;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    
     }
-    header {
-        background-color: #383D58;
-        color: white;
-        }
+    .cabecalho-imagem{
+    width: 20%;
+    
+    }
+    .cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+    }
+    .texto-um{
+    font-size: 24px;
+    }
+    .texto-dois{
+    font-size: 24 px;
+    margin: 0 16px;
+    }
+    .logar{
+    font-size: 20px;
+    margin: 0 16px;
+    }
+    .Agendar{
+    font-size: 24px;
+    margin: 0 16px;
+    }
+    .nome{
+    font-size: 24px;
+    margin: 0 16px;
+    }
+    .email{
+    font-size: 24px;
+    margin: 0 16px;
+    }
+    .Telefone{
+    font-size: 24px;
+    margin: 0 16px;
+    }
+    .login{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    margin: 0 16px;
+    }
+    .opcao-um{
+    font-size: 24px;
+    margin: 0 20px;
+    }
+    .opcao-dois{
+    font-size: 24px;
+    margin: 0 20px;
+    }
+    .opcao-tres{
+    font-size: 24px;
+    margin: 0 20px;
+    }
+    .opcao-quatro{
+    font-size: 24px;
+    margin: 0 20px;
+    }
+    .opcao-cinco{
+    font-size: 24px;
+    margin: 0 20px;
+    }
+    .opcao-seis{
+    font-size: 24px;
+    margin: 0 20px;
+    }
+    .opcao-sete{
+    font-size: 24px;
+    margin: 0 20px;
+    }
+    .promocao{
+    font-size: 25px;
+    margin: 0 20px;
+    color: red;
+    }
+    .a-promocao{
+    font-size: 24px;
+    margin: 0 20px;
+    }
